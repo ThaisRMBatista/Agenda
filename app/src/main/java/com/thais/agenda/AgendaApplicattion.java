@@ -5,7 +5,7 @@ import android.app.Application;
 import com.thais.agenda.dao.AlunoDAO;
 import com.thais.agenda.model.Aluno;
 
-public class AgendaApplicaiton extends Application {
+public class AgendaApplicattion extends Application {
 
     @Override
     public void onCreate() {

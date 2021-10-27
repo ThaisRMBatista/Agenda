@@ -3,5 +3,6 @@
     <string name="formulario_aluno_nome">Nome</string>
     <string name="formulario_aluno_telefone">Telefone</string>
     <string name="formulario_aluno_email">E-mail</string>
-    <string name="formulario_aluno_botao_salvar">SALVAR</string>
+    <string name="menu_salvar_aluno">Salvar o aluno</string>
+    <string name="menu_remover">Remover</string>
 </resources>
